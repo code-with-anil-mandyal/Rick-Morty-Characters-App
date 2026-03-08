@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Paging Mvvm Coroutine Hilt Compose</string>
+    <string name="home">Home</string>
+    <string name="retry">Retry</string>
+</resources>
